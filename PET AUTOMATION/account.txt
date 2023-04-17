@@ -1,0 +1,3 @@
+admin admin admin
+clerk password user
+raj kumar clerk
