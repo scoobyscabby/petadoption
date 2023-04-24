@@ -1,6 +1,0 @@
-1,tuffy,pug,5,f,yes,white,no,adopted,1
-2,jenny,pug,3,m,yes,brown,no,not,2
-0,adopted,2,32765,s,ss,s,s,s,3
-3,snoopy,pug,5,f,yes,brown,no,adopted,4
-4,la,la,7,m,yes,br,skin,tags,5
-3,SD,L,8,F,YES,RED,P,ADOPTED,6
